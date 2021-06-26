@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 # PURPOSE: 
-## The purpose of this project is to implement different resampling models to unbalanced classes to tackle the unbalanced classification problem during credit risk evaluation. The 
+## The purpose of this project is to implement different resampling models to tackle the unbalanced classification problem during credit risk evaluation.
 
 Following Credit Risk Resampling Techniques have been used:
 - `RandomOverSampler`
