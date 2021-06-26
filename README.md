@@ -57,4 +57,5 @@ Ensemble Learners used:
 
 # SUMMARY:
 
+Of all models, utlizing `EasyEnsembleClassifier` would be most effective. This provides a highest accuracy score and the precision is low or none. While evaluating credit risk, which will lead to direct financial loss, it is good to use a model that has high sensitivity and this model has a sensitivity score of 0.92 and 0.94 for high risk and low risk respectively. For these reasons, evaluating another model would not be required and `EasyEnsembleClassifier` can be used.
 
