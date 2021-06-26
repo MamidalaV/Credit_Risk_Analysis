@@ -14,7 +14,7 @@ Ensemble Learners used:
 - `BalancedRandomForestClassifier`
 - `EasyEnsembleClassifier`
 
-### Dataset used for this project is from [LendingClub](https://www.lendingclub.com/) whose vision is to expand financial opportunities for all Americans through responsible innovation.
+### Dataset used for this project is from [LendingClub](https://www.lendingclub.com/), whose vision is to expand financial opportunities for all Americans through responsible innovation.
 
 # RESULTS:
 
