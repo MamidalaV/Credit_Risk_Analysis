@@ -11,8 +11,8 @@ Following Credit Risk Resampling Techniques have been used:
 - `LogisticRegression`
 
 Ensemble Learners used:
-- `alancedRandomForestClassifier`
-- `syEnsembleClassifier`
+- `BalancedRandomForestClassifier`
+- `EasyEnsembleClassifier`
 
 ### Dataset used for this project is from [LendingClub](https://www.lendingclub.com/) whose vision is to expand financial opportunities for all Americans through responsible innovation.
 
