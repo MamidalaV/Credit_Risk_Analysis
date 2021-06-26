@@ -8,6 +8,7 @@ Following Credit Risk Resampling Techniques have been used:
 - `SMOTE`
 - `SMOTEEN`
 - `ClusterCentroids`
+- `LogisticRegression`
 
 Ensemble Learners used:
 - `alancedRandomForestClassifier`
@@ -23,7 +24,7 @@ Ensemble Learners used:
 
 ![df](https://user-images.githubusercontent.com/74985818/123527446-aae8c580-d6ad-11eb-8934-4cb1208cfed8.png)
 
-### Naive Random Oversampling Results (Using `RandomOverSampler`)
+### Naive Random Oversampling Results (Using `RandomOverSampler` & `LogisticRegression`)
  
 ![naive](https://user-images.githubusercontent.com/74985818/123528017-42e8ae00-d6b2-11eb-8f6a-1ca1519a18b6.png)
 
@@ -46,8 +47,13 @@ Ensemble Learners used:
 
 ![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/74985818/123528221-d1a9fa80-d6b3-11eb-8a6f-10a05b93b6ce.png)
 
+#### List the features sorted in descending order by feature importance
+
+![imp_features](https://user-images.githubusercontent.com/74985818/123528430-e3d86880-d6b4-11eb-828b-a7fc1e943407.png)
+
 ### Easy Ensemble AdaBoost Classifier (Using `EasyEnsembleClassifier`)
 
+![EasyEnsembleClassifier](https://user-images.githubusercontent.com/74985818/123528250-1b92e080-d6b4-11eb-8e1d-8269585dfd9f.png)
 
 # SUMMARY:
 
